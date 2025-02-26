@@ -54,7 +54,7 @@ python steganography.py --decode output.png
 
 ### **Extracted Secret Message**
 ```
-Extracted Secret Data: "Hello, this is a hidden message!"
+Extracted Secret Data: "Hi How Are You"
 ```
 
 ## 🔐 How It Works
