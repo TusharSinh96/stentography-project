@@ -22,8 +22,8 @@ This project implements **Image Steganography** using the **Least Significant Bi
 ## 📥 Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/image-steganography.git
-   cd image-steganography
+   git clone https://github.com/TusharSinh96/stentography-project.git
+   cd stentography-project
    ```
 2. Install the required dependencies:
    ```sh
@@ -76,7 +76,7 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 This project is licensed under the **MIT License**.
 
 ## 🔗 GitHub Repository
-[🔗 View on GitHub](https://github.com/your-username/image-steganography)
+[🔗 View on GitHub][https://github.com/TusharSinh96/stentography-project.git]
 
 ---
 🚀 *Developed with ❤️ by [Tushar Dayatar]*
