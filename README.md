@@ -47,10 +47,10 @@ python steganography.py --decode output.png
 
 ## 🖼️ Example
 ### **Original Image**
-![Original Image](assets/original.png)
+![Original Image](image.png)
 
 ### **Encoded Image (Visually Identical but Contains a Message)**
-![Encoded Image](assets/encoded.png)
+![Encoded Image](encoded.png)
 
 ### **Extracted Secret Message**
 ```
