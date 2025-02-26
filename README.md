@@ -33,17 +33,17 @@ This project implements **Image Steganography** using the **Least Significant Bi
 ## 📝 Usage
 ### **1️⃣ Encoding a Message into an Image**
 ```sh
-python steganography.py --encode input.png --data "Your Secret Message" --output output.png
+python steganography.py --encode image.png --data "Your Secret Message" --output encoded.png
 ```
-- `input.png` → Original image
+- `image.png` → Original image
 - `"Your Secret Message"` → Message to be hidden
-- `output.png` → Encoded image with the hidden message
+- `encoded.png` → Encoded image with the hidden message
 
 ### **2️⃣ Decoding the Hidden Message**
 ```sh
 python steganography.py --decode output.png
 ```
-- Extracts and prints the hidden message from `output.png`
+- Extracts and prints the hidden message from `encoded.png`
 
 ## 🖼️ Example
 ### **Original Image**
